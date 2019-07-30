@@ -5,3 +5,4 @@ staticfiles
 db.sqlite3
 .vscode/*
 sql_data/*
+.DS_Store
